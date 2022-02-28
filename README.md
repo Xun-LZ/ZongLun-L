@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZongLun-L
+- 👋 Hi, I’m Xun-LZ
 - 👀 I’m interested in table tennis and badminton
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
